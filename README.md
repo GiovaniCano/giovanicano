@@ -7,7 +7,6 @@
 
 ## Soft Skills
 * Empathetic
-* Detail-oriented
 * Self-taught
 * Resilient
 * Cooperative
@@ -16,6 +15,7 @@
 * Trustworthy
 * Patient
 * Friendly
+* Detail-oriented
 * Objective
 
 ## Interests
